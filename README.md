@@ -11,6 +11,7 @@
 
 # Задача 3: Установить kubectl
 Установил kubectl на локальный WSL. Скопировал настройки кластера с ключами, прокинул порт в Azure, поставил флаг игнора tls для кластера.
+<br>
 ![local kubectl](kubectl.png)
 <br>Запустил курл до удаленного dashboard для проверки.
 ![dashboard](dashboard.png)
